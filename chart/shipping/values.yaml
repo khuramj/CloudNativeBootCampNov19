@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: us.icr.io/kjaved/hello-helm-20191120171033193
-  tag: 1-master-1c12b3db-20191120171732
+  tag: latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
